@@ -1,29 +1,14 @@
 ## Hi there 👋
 
-<!--
-**hm1211/hm1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD94D&fontColor=ffffff&text=🚀%20Hamin%20Lee%20-%20Full%20Stack%20Developer&height=300&fontSize=45&desc=Exploring%20the%20World%20of%20Web%20Development&fontAlignY=50" width="100%">
 </p>
 
 <!-- 간단한 인사말 -->
 
-### 👋 Hi there! I'm **HaMin Lee**
+### 👋 Hi there! I'm **HyunHo Lee**
 
-신입 Full Stack Developer 이하민입니다! 😘
+신입 Full Stack Developer 이현호입니다! 😘
 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 사용자 중심의 개발과 문제 해결을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
