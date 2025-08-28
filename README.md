@@ -46,8 +46,8 @@
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Anti-Scam Platform**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
-| 🌐 **K-Culture Travel Site**  | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                  | HTML, CSS, jQuery, Bootstrap       |
+| 🛡️ **Cal.log**                | 블로그 기능과 캘린더를 활용한 일정관리 프로젝트               | Java, React, Bootstrap, API       |
+| 🌐 **StockCast**              | 무인점포를 위한 실시간 재고추천 ERP 시스템                  | Spring, MySQL, API, JSP            |
 | 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
 
 👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
