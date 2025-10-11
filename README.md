@@ -47,19 +47,14 @@
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
 | 🛡️ **Cal.log**                | 블로그 기능과 캘린더를 활용한 일정관리 프로젝트               | Java, React, Bootstrap, API       |
-| 🌐 **StockCast**              | 무인점포를 위한 실시간 재고추천 ERP 시스템                  | Spring, MySQL, API, JSP            |
-| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
-
-👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
-👉 [블로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
+| 🌐 **StockCast**              | 무인점포를 위한 실시간 재고추천 ERP 시스템                  | Spring, MySQL, MyBatis API, JSP            |
+| 🐾 **fAIshion** | AI기반 체형 맞춤 가상 피팅 플랫폼                         | Spring boot, React,MySQL, JPA, API             |
 
 ---
 
 ### 📫 Contact
 
-- 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📝 Notion Resume : [링크 넣기](#)
-- ✉️ Email : your_email@example.com
+- ✉️ Email : smz1722@naver.com
 
 ---
 
