@@ -46,9 +46,9 @@
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Cal.log**                | 블로그 기능과 캘린더를 활용한 일정관리 프로젝트               | Java, React, Bootstrap, API       |
-| 🌐 **StockCast**              | 무인점포를 위한 실시간 재고추천 ERP 시스템                  | Spring, MySQL, MyBatis API, JSP            |
-| 🐾 **fAIshion** | AI기반 체형 맞춤 가상 피팅 플랫폼                         | Spring boot, React,MySQL, JPA, API             |
+|  **Cal.log**                | 블로그 기능과 캘린더를 활용한 일정관리 프로젝트               | Java, React, Bootstrap, API       |
+|  **StockCast**              | 무인점포를 위한 실시간 재고추천 ERP 시스템                  | Spring, MySQL, MyBatis API, JSP            |
+|  **fAIshion** | AI기반 체형 맞춤 가상 피팅 플랫폼                         | Spring boot, React,MySQL, JPA, API             |
 
 ---
 
