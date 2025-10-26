@@ -1,65 +1,164 @@
-## Hi there 👋
-
+<!-- 🌸 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=19829f&fontColor=FFFFFF&text=🚀%20HyunHo%20Lee%20-%20Full%20Stack%20Developer&height=300&fontSize=45&desc=Exploring%20the%20World%20of%20Web%20Development&fontAlignY=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=300&section=header&text=✦%20Ahyoung's%20GitHub%20✦&fontColor=5c469c&fontSize=44&animation=fadeIn" />
 </p>
 
-<!-- 간단한 인사말 -->
+<!-- About Me -->
+<section align="center">
+  <h2>About Me</h2>
+  <p>- <strong>목표를 끝까지 실행</strong>하는 풀스택 개발자 김아영입니다.</p>
+  <p>- 다양한 기술을 학습하고 프로젝트에 적용하며, 실무 중심의 역량을 쌓아왔습니다.</p>
+  <p>- 매일의 작은 성취가 모여 더 큰 성장을 만든다고 믿습니다.</p>
+  <p>- a0이라는 이름으로 저만의 버전을 꾸준히 업그레이드하고 있습니다.</p>
+</section>
 
-### 👋 Hi there! I'm **HyunHo Lee**
+<br/>
 
-신입 Full Stack Developer 이현호입니다! 😘
-프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
-사용자 중심의 개발과 문제 해결을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
+<!-- Tech Stack -->
+<section align="center">
+  <h2>Tech Stack</h2>
 
----
+  <h4>Frontend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  </p>
 
-### 🛠️ Tech Stack
+  <h4>Backend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  </p>
 
-**Languages & Fundamentals**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  <h4>Database & API</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/API-005571?style=flat-square&logo=Swagger&logoColor=white"/>
+  </p>
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  <h4>Collaboration</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  </p>
 
-**Backend**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  <h4>Design</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+  </p>
+</section>
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<br/>
 
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+<!-- Projects -->
+<section align="center">
+  <h2>Projects</h2>
+  <p><strong>🐾 PetRadar</strong> : 반려동물 위치 기반 실종 신고 플랫폼 (React 기반, Kakao Map API/공공데이터 API 활용)</p>
+  <p><strong>📊 StockCast</strong> : 날씨·유동인구 데이터를 기반으로 한 ERP 발주 관리 시스템 (Spring MVC, MyBatis, API 연동, 대시보드 시각화)</p>
+  <strong>❣️ PoPIC</strong> : 팝업 운영자와 사용자를 연결하는 팝업스토어 통합 플랫폼 (Spring Boot·React 기반, 소셜 로그인·지도·예약 관리 기능 구현)
+</section>
 
----
+<br/>
 
-### 🧩 Projects
+<!-- Career Goal -->
+<section align="center">
+  <h2>Career Goal</h2>
+  <p>- <strong>사용자 중심의 개발과 서비스 완성도에 집중하는 풀스택 개발자</strong></p>
+  <p>- 다양한 프로젝트에 도전하며 기술과 사람을 연결하는 경험을 쌓고 있습니다.</p>
+</section>
 
-| 프로젝트명                    | 설명                                                      | 기술 스택                          |
-| ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-|  **Cal.log**                | 블로그 기능과 캘린더를 활용한 일정관리 프로젝트               | Java, React, Bootstrap, API       |
-|  **StockCast**              | 무인점포를 위한 실시간 재고추천 ERP 시스템                  | Spring, MySQL, MyBatis API, JSP            |
-|  **fAIshion** | AI기반 체형 맞춤 가상 피팅 플랫폼                         | Spring boot, React,MySQL, JPA, API             |
+<br/>
 
----
+<!-- Tech Description -->
+<section align="center">
+  <h2>Tech Description</h2>
+</section>
 
-### 📫 Contact
+<table align="center">
+  <thead>
+    <tr>
+      <th>기술</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="24"/></td>
+      <td>시맨틱 태그, 폼, 테이블 구성 등 웹 표준 기반 마크업 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="24"/></td>
+      <td>기본 스타일링 및 레이아웃 구성, 반응형 UI 구현 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="24"/></td>
+      <td>DOM 조작과 이벤트 처리 기반 동적 UI 구현 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" height="24"/></td>
+      <td>이벤트 처리, 비동기 통신(AJAX), API 연동 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="24"/></td>
+      <td>객체지향 프로그래밍(OOP) 기반, 상속·인터페이스·예외처리 활용 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="24"/></td>
+      <td>기초 문법 및 제어문 학습, 알고리즘 문제 해결 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" height="24"/></td>
+      <td>useState, useEffect, Router를 활용한 SPA 개발 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" height="24"/></td>
+      <td>Button, Card, Modal 등 기본 컴포넌트를 활용한 UI 개발 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white" height="24"/></td>
+      <td>JSP 기반 화면 개발, GET/POST 요청 처리 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="24"/></td>
+      <td>CRUD, JOIN, 서브쿼리 활용 및 테이블 설계 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="24"/></td>
+      <td>MVC 패턴 기반 애플리케이션 개발, REST API 구현 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white" height="24"/></td>
+      <td>SQL 매퍼 xml을 통한 DB 연동, 동적 SQL 처리 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" height="24"/></td>
+      <td>버전 관리 및 협업 경험 (브랜치 전략, Pull Request)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" height="24"/></td>
+      <td>UI 설계 및 와이어프레임, 프로토타입 제작 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" height="24"/></td>
+      <td>로고, 아이콘 제작 경험</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" height="24"/></td>
+      <td>이미지 편집 및 상세 페이지 제작 경험</td>
+    </tr>
+  </tbody>
+</table>
 
-- ✉️ Email : smz1722@naver.com
+<br/>
 
----
-
-<!-- 깃허브 통계 -->
-
-### 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p align="center">💜 Thank you for visiting my profile 💜</p>
