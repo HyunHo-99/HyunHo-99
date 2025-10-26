@@ -63,9 +63,9 @@
 <!-- Projects -->
 <section align="center">
   <h2>Projects</h2>
-  <p><strong>🐾 Calog</strong> : 일정 기반 콘텐츠 작성 플랫폼 (React 기반, React 라이브러리, 공공데이터 API 활용)</p>
+  <p><strong>📆 Calog</strong> : 일정 기반 콘텐츠 작성 플랫폼 (React 기반, React 라이브러리, 공공데이터 API 활용)</p>
   <p><strong>📊 StockCast</strong> : 날씨·유동인구 데이터를 기반으로 한 ERP 발주 관리 시스템 (Spring MVC, MyBatis, API 연동, 대시보드 시각화)</p>
-  <strong>❣️ fAIshion</strong> : AI 기반 가상 피팅 플랫폼 (Spring Boot·React 기반, 소셜 로그인·가상피팅·배송·재고관리 기능 구현)
+  <strong>🥼 fAIshion</strong> : AI 기반 가상 피팅 플랫폼 (Spring Boot·React 기반, 소셜 로그인·가상피팅·배송·재고관리 기능 구현)
 </section>
 
 <br/>
